@@ -1,0 +1,1 @@
+Este repositório é dedicado a um conjunto de exercícios de Python que de forma gradual cobre desde o básico até o avançado.
